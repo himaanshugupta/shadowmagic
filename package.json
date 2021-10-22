@@ -1,7 +1,7 @@
 {
   "name": "shadowmagic",
   "version": "1.0.0",
-  "description": "Add awesome shadows",
+  "description": "Add awesome shadows to your images.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/himanshugupta111/shadowmagic.git"
   },
-  "author": "Himanshu gupta\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "keywords": [
+    "shadowmagic"
+  ],
+  "author": "Himanshu Gupta",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/himanshugupta111/shadowmagic/issues"
