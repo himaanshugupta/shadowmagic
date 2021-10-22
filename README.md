@@ -14,7 +14,7 @@ Runn the following command to install.
 ```javascript
   import {shadowmagic} from "shadowmagic";
 
-  sadowmagic({
+  shadowmagic({
       shadow_type: 'soft',
       padding: false
   });
